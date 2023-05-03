@@ -9,4 +9,4 @@ Game Hub is a React-based web application that allows users to explore a vast li
 * Chakra-Ui
 * Vite
 
-
+<img width="1712" alt="image" src="https://user-images.githubusercontent.com/104735283/236069020-0c8d1d33-dcfc-4ba2-923e-b823e0614856.png">
